@@ -18,8 +18,8 @@ Develop strategies to enhance NLI models' ability to understand lexical relation
 Design an AI agent for ice hockey within the SuperTuxKart ice hockey game using image-based strategies.
 
 #### Approach
-- Generated training data from simulated matches to train a Fully Convolutional Network (FCN) for puck detection.
-- Developed **two hand-tuned controller strategies**: a simple controller for basic gameplay and an advanced controller utilizing complex tactics based on the puck's estimated 3-D position.
+- Generated training data from simulated matches to train a **Fully Convolutional Network (FCN)** for puck detection.
+- Developed two hand-tuned controller strategies: a simple controller for basic gameplay and an advanced controller utilizing complex tactics based on the puck's estimated 3-D position.
 
 #### Technologies Used
 - Pytorch
@@ -33,7 +33,7 @@ Estimate home sale prices and provide real estate investment recommendations usi
 
 #### Approach
 - Forecasted future home prices using **ARIMA, Prophet, and LSTM** neural network models, focusing on the Austin, TX, housing market.
-- Applied the **Capital Asset Pricing Model (CAPM)** to evaluate investment risks and returns.
+- Applied the Capital Asset Pricing Model (CAPM) to evaluate investment risks and returns.
 
 #### Technologies Used
 - **Machine Learning Models**: Decision Trees, Neural Networks for home value estimation.
